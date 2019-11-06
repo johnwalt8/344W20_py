@@ -58,7 +58,7 @@ You do not have to parse and read the data back in from the files created
 in step 2 in order to complete step 3. For step 3, just dump the contents 
 that you already randomly generated in your program directly onto the screen, 
 if that's the easiest way for you. I recommend that you look into 
-ys.stdout.write() for outputting text, as it will allow you to control 
+sys.stdout.write() for outputting text, as it will allow you to control 
 newlines better.
 
 The graders will simply be checking for the above requirements to assign your grade, 
