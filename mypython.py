@@ -1,3 +1,7 @@
+# mypython.py
+# Walter Johnson
+# Program Py: CS344 Operating Systems I, Fall 2019
+
 import string
 import random
 import sys
